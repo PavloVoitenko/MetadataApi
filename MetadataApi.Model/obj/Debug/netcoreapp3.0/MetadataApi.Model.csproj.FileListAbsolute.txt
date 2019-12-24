@@ -1,5 +1,0 @@
-C:\Users\pavlov\PAV\Repos\PavloVoitenko\MetadataApi\MetadataApi.Model\bin\Debug\netcoreapp3.0\MetadataApi.Model.deps.json
-C:\Users\pavlov\PAV\Repos\PavloVoitenko\MetadataApi\MetadataApi.Model\bin\Debug\netcoreapp3.0\MetadataApi.Model.dll
-C:\Users\pavlov\PAV\Repos\PavloVoitenko\MetadataApi\MetadataApi.Model\obj\Debug\netcoreapp3.0\MetadataApi.Model.csprojAssemblyReference.cache
-C:\Users\pavlov\PAV\Repos\PavloVoitenko\MetadataApi\MetadataApi.Model\obj\Debug\netcoreapp3.0\MetadataApi.Model.AssemblyInfoInputs.cache
-C:\Users\pavlov\PAV\Repos\PavloVoitenko\MetadataApi\MetadataApi.Model\obj\Debug\netcoreapp3.0\MetadataApi.Model.AssemblyInfo.cs
