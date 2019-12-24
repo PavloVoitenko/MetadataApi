@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "MetadataApi.Model/1.0.0": {
+        "runtime": {
+          "MetadataApi.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MetadataApi.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
